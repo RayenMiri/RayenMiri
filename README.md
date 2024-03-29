@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate Web/Software developer with a keen interest in crafting efficient and scalable products.
+I'm an innovative Web/Software Developer who is passionate about solving complex problems and creating meaningful solutions. With a strong foundation in both front-end and back-end development, I am well-equipped to build cutting-edge applications. I thrive in dynamic environments and am dedicated to delivering high-quality code and exceptional user experiences.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Miri.Rayen)
