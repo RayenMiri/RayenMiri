@@ -7,12 +7,9 @@
   </a>
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">🛠️ Technologies & Tools</h2>
 <p align="center">
-  <strong>Front-End:</strong> React | HTML5 | CSS3 | JavaScript<br>
-  <strong>Back-End:</strong> Node.js | Express.js | Java | PHP<br>
-  <strong>Database:</strong> MySQL | Oracle | MongoDB<br>
-  <strong>Testing:</strong> Docker
+  React | Node.js | Express.js | Java | PHP | MySQL | Oracle | MongoDB | Docker | Python | C
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
