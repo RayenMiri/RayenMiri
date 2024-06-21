@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in a wi
   &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="50" height="50"/>
   &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Oracle_logo.svg" alt="Oracle" width="50" height="50"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crossjoin.pt%2Foracle-database-upgrade%2F&psig=AOvVaw2BY1WJnfiGlLlVrWQr86dt&ust=1719054957593000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLilo_TI7IYDFQAAAAAdAAAAABAE" alt="Oracle" width="50" height="50"/>
   &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" alt="MongoDB" width="50" height="50"/>
   &nbsp;
