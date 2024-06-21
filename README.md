@@ -1,4 +1,4 @@
-# Hi there, I'm Rayen👋
+# Hi there, I'm Rayen 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with experience in a wide range of technologies. Below are some of the languages, frameworks, and tools that I work with:
 
@@ -34,4 +34,4 @@ I am a versatile software developer with a strong foundation in both front-end a
 
 ### Get in Touch
 
-- [LinkedIn] : https://www.linkedin.com/in/rayen-miri-375558311/
+- [LinkedIn](https://www.linkedin.com/in/rayen-miri-375558311/)
