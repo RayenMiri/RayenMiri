@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rayen</h1>
 <h3 align="center">A passionate developer from Tunisia</h3>
 
-- 🔭 I’m currently working on [Scholara](https://github.com/RayenMiri/Scholara)
+- 🔭 I’m currently working on [Light](https://github.com/RayenMiri/light)
 
 - 🌱 I’m currently learning **Laravel**
 
