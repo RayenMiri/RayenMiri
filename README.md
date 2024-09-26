@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Light](https://github.com/RayenMiri/light)
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **VueJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RayenMiri](https://github.com/RayenMiri)
 
