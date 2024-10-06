@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Rayen</h1>
 <h3 align="center">A passionate developer from Tunisia</h3>
 
-- 🔭 I'm currently working on [Light](https://github.com/RayenMiri/light)
+- 🔭 I'm currently working on Machine Learning
 
-- 🌱 I'm currently learning **VueJS**
+- 🌱 I'm currently learning **VueJS/Python/Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RayenMiri](https://github.com/RayenMiri)
 
