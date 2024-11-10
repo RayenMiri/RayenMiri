@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rayen</h1>
 <h3 align="center">A passionate developer from Tunisia</h3>
 
-- 🔭 I'm currently working on Machine Learning/Light
+- 🔭 I'm currently working on Machine Learning/PyMi
 
 - 🌱 I'm currently learning **Python/C/Java**
 
