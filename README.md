@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Rayen</h1>
 <h3 align="center">A passionate developer from Tunisia</h3>
 
-- 🔭 I'm currently working on Machine Learning/PyMi
+- 🔭 I'm currently working on Machine Learning/AI Agents
 
-- 🌱 I'm currently learning **Python/C/Java**
+- 🌱 I'm currently learning **TypeScript/Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RayenMiri](https://github.com/RayenMiri)
 
