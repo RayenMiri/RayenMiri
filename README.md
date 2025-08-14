@@ -6,8 +6,6 @@
 
 - 🌱 I'm currently learning **TypeScript/Rust**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RayenMiri](https://github.com/RayenMiri)
-
 - 📫 How to reach me **rayenmiri000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
