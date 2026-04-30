@@ -120,11 +120,3 @@ I design end-to-end solutions — from **data pipelines & warehousing** to **AI 
 <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 </p>
-
----
-
-## ⚡ Philosophy
-
-> Good software works.  
-> Great software scales.  
-> Intelligent software learns.
