@@ -12,10 +12,6 @@
   Building intelligent systems that connect <b>data, AI, and scalable software</b>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rayenmiri&label=Profile%20Views&color=3b82f6&style=flat" />
-</p>
-
 ---
 
 ## 🧭 About Me
