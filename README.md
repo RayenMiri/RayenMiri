@@ -5,7 +5,7 @@
 <h1 align="center">Rayen Miri</h1>
 
 <p align="center">
-  <b>AI Engineer • Data Systems • Full-Stack Architect</b>
+  <b> Software/Data Engineer• Full-Stack Architect </b>
 </p>
 
 <p align="center">
