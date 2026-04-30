@@ -1,55 +1,132 @@
-<h1 align="center">Hi 👋, I'm Rayen Miri</h1>
-<h3 align="center">Software Engineer | AI • Data • Full-Stack</h3>
+&lt;!-- Banner --&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=200&section=header&text=Rayen%20Miri&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="banner" /&gt;
+&lt;/p&gt;
 
-<p align="center">
-🚀 Building intelligent systems, scalable apps, and AI-powered products
-</p>
+&lt;h1 align="center"&gt;Rayen Miri&lt;/h1&gt;
+&lt;p align="center"&gt;
+  &lt;b&gt;Software/Data Engineer • Full-Stack Developer&lt;/b&gt;
+&lt;/p&gt;
 
----
+&lt;p align="center"&gt;
+  Building intelligent systems that connect &lt;b&gt;data, AI, and scalable software&lt;/b&gt;
+&lt;/p&gt;
 
-### 👨‍💻 About Me
-- 🔭 Currently working on **AI Agents, Machine Learning & Data Systems**
-- 🧠 Building **intelligent data platforms & automation tools**
-- 🌱 Learning **TypeScript, Rust & advanced AI architectures**
-- ⚡ Strong experience in **full-stack + system design**
-- 📫 Contact: **rayenmiri000@gmail.com**
-
----
-
-### 🧠 AI & Data Focus
-- 🤖 AI Agents (RAG, automation workflows, copilots)
-- 📊 Data Engineering & Data Warehousing
-- 🧩 Intelligent Systems Design (Data Governance, Lineage, Analytics)
-- 🐍 Machine Learning with Python
+&lt;p align="center"&gt;
+  &lt;img src="https://komarev.com/ghpvc/?username=rayen-miri&label=Profile%20Views&color=3b82f6&style=flat" alt="profile views" /&gt;
+&lt;/p&gt;
 
 ---
 
-### ⚙️ Tech Stack
-**Languages:**  
-C • Java • Python • JavaScript • Dart • PHP  
+## 🧭 About Me
 
-**Frontend:**  
-React • Vue • Tailwind • HTML • CSS  
-
-**Backend & Mobile:**  
-Node.js • Express • Laravel • Spring • Flutter  
-
-**Data & AI:**  
-MongoDB • MySQL • SQLite • ETL • ML  
-
-**Tools:**  
-Docker • Git • Linux • Firebase  
+Software engineer focused on **AI-driven systems, data platforms, and scalable architectures**.  
+I design end-to-end solutions — from **data pipelines & warehousing** to **AI agents and production-ready applications**.
 
 ---
 
-### 🔗 Connect
-<p align="left">
-<a href="https://fb.com/miri.rayen" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-</p>
+## 🧠 Core Expertise
+
+- **AI & Agents:** RAG systems, AI copilots, workflow automation
+- **Machine Learning:** Modeling, data processing, applied ML
+- **Data Engineering:** ETL pipelines, data warehousing, analytics systems
+- **System Design:** Distributed systems, scalable backend architectures
+- **Full-Stack Development:** End-to-end product development
 
 ---
 
-### ⚡ Highlight
-> I design and build **end-to-end intelligent systems** — from data pipelines to AI-powered applications.
+## 🛠 Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend & Mobile**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**Data & AI**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+---
+
+## 🚀 Selected Work
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🧠 **[AI Data Governance Copilot](https://github.com/YOUR_USERNAME/ai-data-governance)** | Intelligent platform combining data catalog, lineage & RAG assistant | Python, RAG, Vector DB |
+| 📊 **[Data Warehouse & Analytics](https://github.com/YOUR_USERNAME/data-warehouse-analytics)** | Star schema, ETL workflows, and decision-support dashboards | SQL, Airflow, BI Tools |
+| 🤖 **[AI Communication Platform](https://github.com/YOUR_USERNAME/ai-communication-platform)** | Real-time collaboration system enhanced with AI features | Node.js, React, OpenAI |
+| 📱 **[Full-Stack Applications](https://github.com/YOUR_USERNAME?tab=repositories)** | Scalable systems across web & mobile | React, Flutter, Node.js |
+
+&gt; 🔗 **See all my repositories [here](https://github.com/YOUR_USERNAME?tab=repositories)**
+
+---
+
+## 📈 GitHub Stats
+
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats" /&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top langs" /&gt;
+&lt;/p&gt;
+
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="streak" /&gt;
+&lt;/p&gt;
+
+---
+
+## 📈 What I Bring
+
+- Ability to **bridge AI with real-world systems**
+- Strong foundation in **software engineering + data architecture**
+- Experience building **complex, production-level applications**
+- Fast learner with a focus on **impact and scalability**
+
+---
+
+## 🔗 Connect
+
+&lt;p align="left"&gt;
+  &lt;a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /&gt;
+  &lt;/a&gt;
+  &lt;a href="https://fb.com/miri.rayen" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /&gt;
+  &lt;/a&gt;
+  &lt;a href="mailto:YOUR_EMAIL@example.com"&gt;
+    &lt;img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
+
+---
+
+## ⚡ Philosophy
+
+&gt; Good software works.  
+&gt; Great software scales.  
+&gt; Intelligent software learns.
