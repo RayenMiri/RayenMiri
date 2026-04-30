@@ -74,17 +74,6 @@ I design end-to-end solutions — from **data pipelines & warehousing** to **AI 
 
 ---
 
-## 🚀 Selected Work
-
-| Project | Description | Tech |
-|--------|------------|------|
-| 🧠 AI Data Governance Copilot | Intelligent platform combining data catalog, lineage & RAG assistant | Python, RAG, Vector DB |
-| 📊 Data Warehouse & Analytics | Star schema, ETL workflows, dashboards | SQL, Airflow |
-| 🤖 AI Communication Platform | Real-time collaboration enhanced with AI | Node.js, React |
-| 📱 Full-Stack Apps | Scalable web & mobile systems | React, Flutter |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
