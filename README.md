@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=220&section=header&text=Rayen%20Miri&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Rayen Miri</h1>
-
 <p align="center">
   <b> Software/Data Engineer• Full-Stack Architect </b>
 </p>
