@@ -12,24 +12,14 @@
 
 ---
 
-## 🧭 About Me
+## About Me
 
 Software and Data engineer focused on **AI-driven systems, data platforms, and scalable architectures**.  
 I design end-to-end solutions — from **data pipelines & warehousing** to **AI agents and production-ready applications**.
 
 ---
 
-## 🧠 Core Expertise
-
-- 🤖 AI Agents (RAG, copilots, automation workflows)
-- 🧠 Machine Learning & applied AI systems
-- 📊 Data Engineering (ETL, Warehousing, Analytics)
-- 🏗 System Design & scalable architectures
-- 🌐 Full-Stack Development
-
----
-
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -68,7 +58,7 @@ I design end-to-end solutions — from **data pipelines & warehousing** to **AI 
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rayenmiri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
@@ -81,16 +71,7 @@ I design end-to-end solutions — from **data pipelines & warehousing** to **AI 
 
 ---
 
-## 📈 What I Bring
-
-- Ability to **bridge AI with real-world systems**
-- Strong foundation in **software engineering + data architecture**
-- Experience building **production-level applications**
-- Focus on **scalability, performance, and impact**
-
----
-
-## 🔗 Connect
+##  Connect
 
 <p align="left">
 <a href="https://www.linkedin.com/in/rayen-miri-375558311/" target="_blank">
