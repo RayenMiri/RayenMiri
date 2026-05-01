@@ -14,7 +14,7 @@
 
 ## 🧭 About Me
 
-Software engineer focused on **AI-driven systems, data platforms, and scalable architectures**.  
+Software and Data engineer focused on **AI-driven systems, data platforms, and scalable architectures**.  
 I design end-to-end solutions — from **data pipelines & warehousing** to **AI agents and production-ready applications**.
 
 ---
